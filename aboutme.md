@@ -1,16 +1,21 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Gan Huang
+subtitle: Let's rock OpenShift
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## My brief history
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Previously working as an [OpenStack](http://openstack.org/) engineer at [Opzoon](http://www.opzoon.com/en/)
 
-What else do you need?
+- Now working at [Redhat](https://www.redhat.com/en), focus on [OpenShift](https://www.openshift.com/) test
 
-### my history
+## Skills
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+`Programming Languages`: Python, Shell, Ansible
+
+`Platforms`: OpenStack, OpenShift, Kubernetes, SDN, Containers
+
+`Tools`: Linux, Jenkins, Git
+
+`Thoughts`: Devops, CI/CD
