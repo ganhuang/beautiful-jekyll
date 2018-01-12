@@ -12,9 +12,12 @@ subtitle: Let's rock OpenShift
 
 ## Skills
 
-`Programming Languages`: Python, Shell, Ansible
+`Programming`: Python, Shell, Ansible
 
-`Platforms`: OpenStack, OpenShift, Kubernetes, SDN, Containers
+`Platforms`: OpenStack, OpenShift, Kubernetes, SDN, Docker,
+[System Container](https://github.com/projectatomic/atomic-system-containers),
+[Atomic Host](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/7.1_release_notes/chap-red_hat_enterprise_linux-atomic_host),
+[cri-o](https://github.com/kubernetes-incubator/cri-o)
 
 `Tools`: Linux, Jenkins, Git
 
