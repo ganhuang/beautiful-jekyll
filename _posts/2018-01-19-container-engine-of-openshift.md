@@ -52,3 +52,5 @@ System container 是基于 Atomic，runc 的命令行工具。服务的运行时
 在 OpenShift 部署中，CRI-O 也是通过 system container 这种方式运行。
 
 container 的启动，停止是通过 runc。
+
+![CRI-O](../img/cri-o.png)
